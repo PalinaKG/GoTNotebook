@@ -1,0 +1,1020 @@
+Tywin Lannister
+Joanna Lannister
+	Cersei Lannister
+	Jaime Lannister
+	Tyrion Lannister
+
+Eddard Stark
+Catelyn Stark
+	Robb Stark
+	Sansa Stark
+	Arya Stark
+	Bran Stark
+	Rickon Stark
+
+Eddard Stark
+Unknown spouse of Eddard Stark
+	Jon Snow
+
+Elia Martell
+Rhaegar Targaryen
+	Rhaenys Targaryen (daughter of Rhaegar)
+	Aegon Targaryen (son of Elia Martell)
+
+Bharbo
+Unknown spouse of Bharbo
+	Drogo
+
+Sansa Stark
+Tyrion Lannister
+
+Sansa Stark
+Ramsay Bolton
+
+Osha
+Bruni
+
+Naerys Targaryen
+Aegon IV Targaryen
+	Daeron II Targaryen
+	Daenerys Targaryen (daughter of Aegon IV)
+
+Harys Swyft
+Unknown spouse of Harys Swyft
+	Dorna Lannister
+
+Darlessa Marbrand
+Unknown spouse of Darlessa Marbrand
+	Tyrek Lannister
+
+Illyrio Mopatis's first wife
+Illyrio Mopatis
+
+Illyrio Mopatis's first wife
+Prince
+
+Durran Godsgrief
+Elenei
+
+Balon Greyjoy
+Alannys Greyjoy
+	Rodrik Greyjoy
+	Maron Greyjoy
+	Yara Greyjoy
+	Theon Greyjoy
+
+Maron Martell
+Daenerys Targaryen (daughter of Aegon IV)
+
+Vayon Poole
+Unknown spouse of Vayon Poole
+	Jeyne Poole
+
+Aerys I Targaryen
+Aelinor Targaryen
+
+Petyr Baelish
+Lysa Arryn
+
+Aegon I Targaryen
+Visenya Targaryen
+
+Aegon I Targaryen
+Rhaenys Targaryen (sister of Aegon I)
+	Aenys I Targaryen
+	Maegor Targaryen
+
+Daemon I Blackfyre
+Serena Blackfyre
+	Aegon Blackfyre
+	Aemon Blackfyre
+	Daemon II Blackfyre
+	Haegon Blackfyre
+
+Luthor Tyrell
+Olenna Tyrell
+	Mace Tyrell
+
+Joffrey Baratheon
+Margaery Tyrell
+
+Robb Stark
+Talisa Stark
+
+Jeyne Marbrand
+Unknown spouse of Jeyne Marbrand
+	Tywin Lannister
+	Kevan Lannister
+	Gerion Lannister
+	Genna Lannister
+	Tygett Lannister
+
+Steffon Baratheon
+Cassana Baratheon
+	Robert Baratheon
+	Stannis Baratheon
+	Renly Baratheon
+
+Greatjon Umber
+Unknown spouse of Greatjon Umber
+	Smalljon Umber
+
+Daenerys Targaryen
+Drogo
+	Rhaego
+
+Minisa Tully
+Hoster Tully
+	Catelyn Stark
+	Lysa Arryn
+	Edmure Tully
+
+Viserys I Targaryen
+Aemma Arryn
+	Rhaenyra Targaryen
+
+Oberyn Martell
+Unknown spouse of Oberyn Martell
+	Obara Sand
+	Nymeria Sand
+	Tyene Sand
+	Sarella Sand
+	Elia Sand
+	Obella Sand
+	Dorea Sand
+	Loreza Sand
+
+Lucas Harroway
+Unknown spouse of Lucas Harroway
+	Alys Harroway
+
+Tytos Lannister
+Jeyne Marbrand
+	Tywin Lannister
+	Kevan Lannister
+	Gerion Lannister
+	Genna Lannister
+	Tygett Lannister
+
+Meria Martell
+Unknown spouse of Meria Martell
+	Nymor Martell
+
+Tanda Stokeworth
+Stokeworth (lord)
+	Falyse Stokeworth
+	Lollys Stokeworth
+
+Otto Hightower
+Unknown spouse of Otto Hightower
+	Alicent Hightower
+
+Maege Mormont
+Unknown spouse of Maege Mormont
+	Lyanna Mormont
+
+Davos Seaworth
+Marya Seaworth
+	Matthos Seaworth
+
+Moro
+Moro's wife 1
+
+Moro
+Moro's wife 2
+
+Robett Glover
+Sybelle Glover
+	Gawen Glover
+	Erena Glover
+
+Dorna Lannister
+Kevan Lannister
+	Lancel Lannister
+	Martyn Lannister
+	Janei Lannister
+	Willem Lannister
+
+Sharra Arryn
+Unknown spouse of Sharra Arryn
+	Ronnel Arryn (king)
+
+Tion Lannister
+Ellyn Reyne
+
+Tygett Lannister
+Darlessa Marbrand
+	Tyrek Lannister
+
+Maegor Targaryen
+Ceryse Hightower
+
+Maegor Targaryen
+Alys Harroway
+
+Maegor Targaryen
+Tyanna of the Tower
+
+Maegor Targaryen
+Elinor Costayne
+
+Maegor Targaryen
+Jeyne Westerling
+
+Maegor Targaryen
+Rhaena Targaryen (daughter of Aenys)
+
+Myriah Martell
+Daeron II Targaryen
+	Baelor Targaryen (son of Daeron II)
+	Aerys I Targaryen
+	Aelinor Targaryen
+	Rhaegel Targaryen
+
+Myriah Martell
+Unknown spouse of Myriah Martell
+	Maekar I Targaryen
+
+Gilly
+Craster
+	Sam
+
+Jorah Mormont
+Lynesse Hightower
+
+Lyonel Baratheon
+Rhaelle Targaryen
+	Ormund Baratheon
+
+Johanna Lannister
+Jason Lannister
+
+Melessa Tarly
+Randyll Tarly
+	Samwell Tarly
+	Talla Tarly
+	Dickon Tarly
+
+Stannis Baratheon
+Selyse Baratheon
+	Shireen Baratheon
+	Petyr Baratheon
+	Tommard Baratheon
+	Edric Baratheon
+
+Walter Whent
+Shella Whent
+
+Walderan Tarbeck
+Ellyn Reyne
+	Tion Tarbeck
+
+Mors Martell
+Nymeria
+
+Mors Martell
+Unknown spouse of Mors Martell
+	Martell (Daughter of Mors)
+
+Dyanna Dayne
+Maekar Targaryen
+	Aerion Targaryen
+	Aemon
+	Aegon V Targaryen
+
+Alerie Tyrell
+Mace Tyrell
+	Loras Tyrell
+	Margaery Tyrell
+
+Orys Baratheon
+Argella Baratheon
+	Axel Baratheon
+	Serac Baratheon
+	Theresa Baratheon
+	Ethelide Baratheon
+	Mychal Baratheon
+
+Aegon V Targaryen
+Unknown spouse of Aegon V Targaryen
+	Duncan Targaryen
+	Aerys II Targaryen
+	Rhaella Targaryen
+	Daeron Targaryen (son of Aegon V)
+
+Rhaelle Baratheon
+Lyonel Baratheon
+	Ormund Baratheon
+
+Rhaelle Baratheon
+Ormund Baratheon
+	Steffon Baratheon
+
+Wyman Manderly
+Unknown spouse of Wyman Manderly
+	Wendel Manderly
+
+Roslin Tully
+Edmure Tully
+	Tully (son of Edmure)
+
+Lyanna Stark
+Rhaegar Targaryen
+	Jon Snow
+
+Jaehaera Targaryen
+Aegon III Targaryen
+
+Jasper Arryn
+Unknown spouse of Jasper Arryn
+	Jon Arryn
+	Alys Arryn
+	Ronnel Arryn
+
+Samwell Tarly
+Unknown spouse of Samwell Tarly
+	Sam
+
+Viserys II Targaryen
+Visneya Targaryen
+	Aegon IV Targaryen
+	Aemon Targaryen (Dragonknight)
+	Naerys Targaryen
+
+Rickard Stark
+Unknown spouse of Rickard Stark
+	Brandon Stark (son of Rickard)
+	Eddard Stark
+	Lyanna Stark
+	Benjen Stark
+
+Quellon Greyjoy
+Unknown spouse of Quellon Greyjoy
+	Balon Greyjoy
+	Euron Greyjoy
+	Aeron Greyjoy
+
+Jon Arryn
+Lysa Arryn
+	Robin Arryn
+
+Walder Frey
+Joyeuse Frey
+
+Walder Frey
+Kitty Frey
+	Stevron Frey
+	Lothar Frey
+	Olyvar Frey
+	Roslin Tully
+	Waldron Frey
+	Arwaya Frey
+	Walda Frey (The Rains of Castamere)
+	Derwa Frey
+	Waldra Frey
+	Shirei Frey
+	Walder Rivers
+	Ryger Rivers
+
+Howland Reed
+Unknown spouse of Howland Reed
+	Meera Reed
+	Jojen Reed
+
+Jaime Lannister
+Unknown spouse of Jaime Lannister
+	Joffrey Baratheon
+	Myrcella Baratheon
+	Tommen Baratheon
+
+Alysanne Targaryen
+Jaehaerys I Targaryen
+
+Tommen Baratheon
+Margaery Tyrell
+
+Corlys Velaryon
+Rhaenys Velaryon
+	Laena Velaryon
+	Laenor Velaryon
+
+Daena Targaryen
+Unknown spouse of Daena Targaryen
+	Daemon I Blackfyre
+
+Smalljon Umber
+Unknown spouse of Smalljon Umber
+	Ned Umber
+
+Argilac Durrandon
+Unknown spouse of Argilac Durrandon
+	Argella Baratheon
+
+Doran Martell
+Unknown spouse of Doran Martell
+	Trystane Martell
+
+Denys Darklyn
+Serala of Myr
+
+Aerys II Targaryen
+Rhaella Targaryen
+	Rhaegar Targaryen
+	Viserys Targaryen
+	Daenerys Targaryen
+
+Qhorwyn Hoare
+Unknown spouse of Qhorwyn Hoare
+	Harlan Hoare
+	Harwyn Hoare
+
+Ellaria Sand
+Unknown spouse of Ellaria Sand
+	Tyene Sand
+	Elia Sand
+	Obella Sand
+	Dorea Sand
+	Loreza Sand
+
+Hugor of the Hill
+Hugor's bride
+
+Selwyn Tarth
+Unknown spouse of Selwyn Tarth
+	Brienne of Tarth
+
+Medger Cerwyn
+Unknown spouse of Medger Cerwyn
+	Cley Cerwyn
+
+Lyonel Selmy
+Unknown spouse of Lyonel Selmy
+	Barristan Selmy
+
+Cersei Lannister
+Robert Baratheon
+	Baratheon (son of Robert)
+	Joffrey Baratheon
+	Myrcella Baratheon
+	Tommen Baratheon
+
+Tysha
+Tyrion Lannister
+
+Haegon Blackfyre
+Unknown spouse of Haegon Blackfyre
+	Daemon III Blackfyre
+
+Roose Bolton
+Walda Bolton
+	Domeric Bolton
+	Bolton (son of Roose)
+	Ramsay Bolton
+
+Rickard Karstark
+Unknown spouse of Rickard Karstark
+	Harrion Karstark
+	Torrhen Karstark
+	Harald Karstark
+
+Yohn Royce
+Unknown spouse of Yohn Royce
+	Robar Royce
+	Waymar Royce
+
+Davos Dayne
+Nymeria
+	Dayne (son of Davos)
+
+Vorian Dayne
+Unknown spouse of Vorian Dayne
+	Davos Dayne
+
+Renly Baratheon
+Margaery Tyrell
+
+Jeor Mormont
+Unknown spouse of Jeor Mormont
+	Jorah Mormont
+
+Aenys Targaryen
+Unknown spouse of Aenys Targaryen
+	Aegon Targaryen (son of Aenys)
+	Rhaena Targaryen (daughter of Aenys)
+	Jaehaerys I Targaryen
+	Alysanne Targaryen
+
+Anya Waynwood
+Unknown spouse of Anya Waynwood
+	Donnel Waynwood
+
+Tywin Lannister
+Joanna Lannister
+	Cersei Lannister
+	Jaime Lannister
+	Tyrion Lannister
+
+Eddard Stark
+Catelyn Stark
+	Robb Stark
+	Sansa Stark
+	Arya Stark
+	Bran Stark
+	Rickon Stark
+
+Eddard Stark
+Unknown spouse of Eddard Stark
+	Jon Snow
+
+Elia Martell
+Rhaegar Targaryen
+	Rhaenys Targaryen (daughter of Rhaegar)
+	Aegon Targaryen (son of Elia Martell)
+
+Bharbo
+Unknown spouse of Bharbo
+	Drogo
+
+Sansa Stark
+Tyrion Lannister
+
+Sansa Stark
+Ramsay Bolton
+
+Osha
+Bruni
+
+Naerys Targaryen
+Aegon IV Targaryen
+	Daeron II Targaryen
+	Daenerys Targaryen (daughter of Aegon IV)
+
+Harys Swyft
+Unknown spouse of Harys Swyft
+	Dorna Lannister
+
+Darlessa Marbrand
+Unknown spouse of Darlessa Marbrand
+	Tyrek Lannister
+
+Illyrio Mopatis's first wife
+Illyrio Mopatis
+
+Illyrio Mopatis's first wife
+Prince
+
+Durran Godsgrief
+Elenei
+
+Balon Greyjoy
+Alannys Greyjoy
+	Rodrik Greyjoy
+	Maron Greyjoy
+	Yara Greyjoy
+	Theon Greyjoy
+
+Maron Martell
+Daenerys Targaryen (daughter of Aegon IV)
+
+Vayon Poole
+Unknown spouse of Vayon Poole
+	Jeyne Poole
+
+Aerys I Targaryen
+Aelinor Targaryen
+
+Petyr Baelish
+Lysa Arryn
+
+Aegon I Targaryen
+Visenya Targaryen
+
+Aegon I Targaryen
+Rhaenys Targaryen (sister of Aegon I)
+	Aenys I Targaryen
+	Maegor Targaryen
+
+Daemon I Blackfyre
+Serena Blackfyre
+	Aegon Blackfyre
+	Aemon Blackfyre
+	Daemon II Blackfyre
+	Haegon Blackfyre
+
+Luthor Tyrell
+Olenna Tyrell
+	Mace Tyrell
+
+Joffrey Baratheon
+Margaery Tyrell
+
+Robb Stark
+Talisa Stark
+
+Jeyne Marbrand
+Unknown spouse of Jeyne Marbrand
+	Tywin Lannister
+	Kevan Lannister
+	Gerion Lannister
+	Genna Lannister
+	Tygett Lannister
+
+Steffon Baratheon
+Cassana Baratheon
+	Robert Baratheon
+	Stannis Baratheon
+	Renly Baratheon
+
+Greatjon Umber
+Unknown spouse of Greatjon Umber
+	Smalljon Umber
+
+Daenerys Targaryen
+Drogo
+	Rhaego
+
+Minisa Tully
+Hoster Tully
+	Catelyn Stark
+	Lysa Arryn
+	Edmure Tully
+
+Viserys I Targaryen
+Aemma Arryn
+	Rhaenyra Targaryen
+
+Oberyn Martell
+Unknown spouse of Oberyn Martell
+	Obara Sand
+	Nymeria Sand
+	Tyene Sand
+	Sarella Sand
+	Elia Sand
+	Obella Sand
+	Dorea Sand
+	Loreza Sand
+
+Lucas Harroway
+Unknown spouse of Lucas Harroway
+	Alys Harroway
+
+Tytos Lannister
+Jeyne Marbrand
+	Tywin Lannister
+	Kevan Lannister
+	Gerion Lannister
+	Genna Lannister
+	Tygett Lannister
+
+Meria Martell
+Unknown spouse of Meria Martell
+	Nymor Martell
+
+Tanda Stokeworth
+Stokeworth (lord)
+	Falyse Stokeworth
+	Lollys Stokeworth
+
+Otto Hightower
+Unknown spouse of Otto Hightower
+	Alicent Hightower
+
+Maege Mormont
+Unknown spouse of Maege Mormont
+	Lyanna Mormont
+
+Davos Seaworth
+Marya Seaworth
+	Matthos Seaworth
+
+Moro
+Moro's wife 1
+
+Moro
+Moro's wife 2
+
+Robett Glover
+Sybelle Glover
+	Gawen Glover
+	Erena Glover
+
+Dorna Lannister
+Kevan Lannister
+	Lancel Lannister
+	Martyn Lannister
+	Janei Lannister
+	Willem Lannister
+
+Sharra Arryn
+Unknown spouse of Sharra Arryn
+	Ronnel Arryn (king)
+
+Tion Lannister
+Ellyn Reyne
+
+Tygett Lannister
+Darlessa Marbrand
+	Tyrek Lannister
+
+Maegor Targaryen
+Ceryse Hightower
+
+Maegor Targaryen
+Alys Harroway
+
+Maegor Targaryen
+Tyanna of the Tower
+
+Maegor Targaryen
+Elinor Costayne
+
+Maegor Targaryen
+Jeyne Westerling
+
+Maegor Targaryen
+Rhaena Targaryen (daughter of Aenys)
+
+Myriah Martell
+Daeron II Targaryen
+	Baelor Targaryen (son of Daeron II)
+	Aerys I Targaryen
+	Aelinor Targaryen
+	Rhaegel Targaryen
+
+Myriah Martell
+Unknown spouse of Myriah Martell
+	Maekar I Targaryen
+
+Gilly
+Craster
+	Sam
+
+Jorah Mormont
+Lynesse Hightower
+
+Lyonel Baratheon
+Rhaelle Targaryen
+	Ormund Baratheon
+
+Johanna Lannister
+Jason Lannister
+
+Melessa Tarly
+Randyll Tarly
+	Samwell Tarly
+	Talla Tarly
+	Dickon Tarly
+
+Stannis Baratheon
+Selyse Baratheon
+	Shireen Baratheon
+	Petyr Baratheon
+	Tommard Baratheon
+	Edric Baratheon
+
+Walter Whent
+Shella Whent
+
+Walderan Tarbeck
+Ellyn Reyne
+	Tion Tarbeck
+
+Mors Martell
+Nymeria
+
+Mors Martell
+Unknown spouse of Mors Martell
+	Martell (Daughter of Mors)
+
+Dyanna Dayne
+Maekar Targaryen
+	Aerion Targaryen
+	Aemon
+	Aegon V Targaryen
+
+Alerie Tyrell
+Mace Tyrell
+	Loras Tyrell
+	Margaery Tyrell
+
+Orys Baratheon
+Argella Baratheon
+	Axel Baratheon
+	Serac Baratheon
+	Theresa Baratheon
+	Ethelide Baratheon
+	Mychal Baratheon
+
+Aegon V Targaryen
+Unknown spouse of Aegon V Targaryen
+	Duncan Targaryen
+	Aerys II Targaryen
+	Rhaella Targaryen
+	Daeron Targaryen (son of Aegon V)
+
+Rhaelle Baratheon
+Lyonel Baratheon
+	Ormund Baratheon
+
+Rhaelle Baratheon
+Ormund Baratheon
+	Steffon Baratheon
+
+Wyman Manderly
+Unknown spouse of Wyman Manderly
+	Wendel Manderly
+
+Roslin Tully
+Edmure Tully
+	Tully (son of Edmure)
+
+Lyanna Stark
+Rhaegar Targaryen
+	Jon Snow
+
+Jaehaera Targaryen
+Aegon III Targaryen
+
+Jasper Arryn
+Unknown spouse of Jasper Arryn
+	Jon Arryn
+	Alys Arryn
+	Ronnel Arryn
+
+Samwell Tarly
+Unknown spouse of Samwell Tarly
+	Sam
+
+Viserys II Targaryen
+Visneya Targaryen
+	Aegon IV Targaryen
+	Aemon Targaryen (Dragonknight)
+	Naerys Targaryen
+
+Rickard Stark
+Unknown spouse of Rickard Stark
+	Brandon Stark (son of Rickard)
+	Eddard Stark
+	Lyanna Stark
+	Benjen Stark
+
+Quellon Greyjoy
+Unknown spouse of Quellon Greyjoy
+	Balon Greyjoy
+	Euron Greyjoy
+	Aeron Greyjoy
+
+Jon Arryn
+Lysa Arryn
+	Robin Arryn
+
+Walder Frey
+Joyeuse Frey
+
+Walder Frey
+Kitty Frey
+	Stevron Frey
+	Lothar Frey
+	Olyvar Frey
+	Roslin Tully
+	Waldron Frey
+	Arwaya Frey
+	Walda Frey (The Rains of Castamere)
+	Derwa Frey
+	Waldra Frey
+	Shirei Frey
+	Walder Rivers
+	Ryger Rivers
+
+Howland Reed
+Unknown spouse of Howland Reed
+	Meera Reed
+	Jojen Reed
+
+Jaime Lannister
+Unknown spouse of Jaime Lannister
+	Joffrey Baratheon
+	Myrcella Baratheon
+	Tommen Baratheon
+
+Alysanne Targaryen
+Jaehaerys I Targaryen
+
+Tommen Baratheon
+Margaery Tyrell
+
+Corlys Velaryon
+Rhaenys Velaryon
+	Laena Velaryon
+	Laenor Velaryon
+
+Daena Targaryen
+Unknown spouse of Daena Targaryen
+	Daemon I Blackfyre
+
+Smalljon Umber
+Unknown spouse of Smalljon Umber
+	Ned Umber
+
+Argilac Durrandon
+Unknown spouse of Argilac Durrandon
+	Argella Baratheon
+
+Doran Martell
+Unknown spouse of Doran Martell
+	Trystane Martell
+
+Denys Darklyn
+Serala of Myr
+
+Aerys II Targaryen
+Rhaella Targaryen
+	Rhaegar Targaryen
+	Viserys Targaryen
+	Daenerys Targaryen
+
+Qhorwyn Hoare
+Unknown spouse of Qhorwyn Hoare
+	Harlan Hoare
+	Harwyn Hoare
+
+Ellaria Sand
+Unknown spouse of Ellaria Sand
+	Tyene Sand
+	Elia Sand
+	Obella Sand
+	Dorea Sand
+	Loreza Sand
+
+Hugor of the Hill
+Hugor's bride
+
+Selwyn Tarth
+Unknown spouse of Selwyn Tarth
+	Brienne of Tarth
+
+Medger Cerwyn
+Unknown spouse of Medger Cerwyn
+	Cley Cerwyn
+
+Lyonel Selmy
+Unknown spouse of Lyonel Selmy
+	Barristan Selmy
+
+Cersei Lannister
+Robert Baratheon
+	Baratheon (son of Robert)
+	Joffrey Baratheon
+	Myrcella Baratheon
+	Tommen Baratheon
+
+Tysha
+Tyrion Lannister
+
+Haegon Blackfyre
+Unknown spouse of Haegon Blackfyre
+	Daemon III Blackfyre
+
+Roose Bolton
+Walda Bolton
+	Domeric Bolton
+	Bolton (son of Roose)
+	Ramsay Bolton
+
+Rickard Karstark
+Unknown spouse of Rickard Karstark
+	Harrion Karstark
+	Torrhen Karstark
+	Harald Karstark
+
+Yohn Royce
+Unknown spouse of Yohn Royce
+	Robar Royce
+	Waymar Royce
+
+Davos Dayne
+Nymeria
+	Dayne (son of Davos)
+
+Vorian Dayne
+Unknown spouse of Vorian Dayne
+	Davos Dayne
+
+Renly Baratheon
+Margaery Tyrell
+
+Jeor Mormont
+Unknown spouse of Jeor Mormont
+	Jorah Mormont
+
+Aenys Targaryen
+Unknown spouse of Aenys Targaryen
+	Aegon Targaryen (son of Aenys)
+	Rhaena Targaryen (daughter of Aenys)
+	Jaehaerys I Targaryen
+	Alysanne Targaryen
+
+Anya Waynwood
+Unknown spouse of Anya Waynwood
+	Donnel Waynwood
+
